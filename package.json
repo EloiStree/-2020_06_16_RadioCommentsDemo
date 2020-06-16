@@ -1,0 +1,17 @@
+{                                                                                
+  "name":           "be.eloistree.radiocommentsdemo",                              
+  "displayName":    "Radio comments demo",                        
+  "version":        "0.0.1",                         
+  "unity":          "2018.1",                        
+  "description":    "Demo of how to use radio comment plugin",                         
+  "keywords":       ["Script","Tool"],                       
+  "dependencies":{ 
+        "be.eloistree.radiocomments": "0.0.1" },     
+  "relatedPackages":{  }, 
+  "author" : {
+        "name":"Eloi Stree",
+        "mail":"lovepatato@gmail.com",
+        "url":"https://youtu.be/5XRiGi1eofQ"
+    },    
+        "category": "Script"                   
+} 
