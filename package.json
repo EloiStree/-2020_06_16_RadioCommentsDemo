@@ -6,7 +6,9 @@
   "description":    "Demo of how to use radio comment plugin",                         
   "keywords":       ["Script","Tool"],                       
   "dependencies":{ 
-        "be.eloistree.radiocomments": "0.0.1" },     
+        "be.eloistree.radiocomments": "0.0.1",
+        "be.eloistree.magicdoorsroompattern":"0.0.1"
+        },     
   "relatedPackages":{  }, 
   "author" : {
         "name":"Eloi Stree",
